@@ -1,10 +1,10 @@
 Herkansing toets FW Stappenplan:
 
     Stap_01: Haal de toets project op vanuit de Github. Je kunt de onderstaande URL    
-	         gebruiken (  ).
+	         gebruiken ( https://classroom.github.com/a/xIMj6wvH ).
 
     Stap_02: Voer het aangeleverde sql script ( AccountancyMySql.sql ) 
-             uit om Accountancy database aan te maken.
+             uit om Accountancy database aan te maken.Je kunt dit script onder map doc vinden.
 
     Stap_03: Pass de connectionString aan in het cofig file met de naam de nieuwe van databse.
 
